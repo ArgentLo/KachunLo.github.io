@@ -46,12 +46,6 @@ Kaggle等のデータサイエンスコンペも始まり、社会データの�
 
 ## 学術論文
 
-### プレプリント
-
-1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
-**GeoCF: Geolocation-enhanced Collaborative Filtering for Cold Start Recommendations** <br>
-_arXiv preprint arXiv:2102, 2021._ <br>
-
 ### 国際論文集
 
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
@@ -78,6 +72,13 @@ _International Joint Conference on Neural Networks ([IJCNN2021](https://www.ijcn
 **Matching Novelty while Training: Novel Recommendation based on Personalized Pairwise Loss** <br>
 _IEEE International Conference on Data Mining ([ICDM2019](http://icdm2019.bigke.org/))_. (Acceptance rate=9.1%) <br>
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970764)] [[slides](http://www2.econ.tohoku.ac.jp/~terui/workshop/ref/Lo.pdf)] <br>
+
+
+### プレプリント
+
+1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
+**GeoCF: Geolocation-enhanced Collaborative Filtering for Cold Start Recommendations** <br>
+_arXiv preprint arXiv:2102, 2021._ <br>
 
 ---
 
