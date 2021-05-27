@@ -3,13 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
-
-## Preprints
-1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
-**GeoCF: Geolocation-enhanced Collaborative Filtering for Cold Start Recommendations** <br>
-_arXiv preprint arXiv:2102, 2021._ <br>
-
 
 ---
 
@@ -41,3 +34,10 @@ _International Joint Conference on Neural Networks ([IJCNN2021](https://www.ijcn
 _IEEE International Conference on Data Mining ([ICDM2019](http://icdm2019.bigke.org/))_. (Acceptance rate=9.1%) <br>
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970764)] [[slides](http://www2.econ.tohoku.ac.jp/~terui/workshop/ref/Lo.pdf)] <br>
 
+
+---
+
+## Preprints
+1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
+**GeoCF: Geolocation-enhanced Collaborative Filtering for Cold Start Recommendations** <br>
+_arXiv preprint arXiv:2102, 2021._ <br>
