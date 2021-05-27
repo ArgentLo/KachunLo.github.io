@@ -87,3 +87,5 @@ _arXiv preprint arXiv:2102, 2021._ <br>
 ### 学術
 - International Conference on Data Mining (ICDM): [2019](https://icdm2019.bigke.org)
 - International Workshop on Marketing and Data Science: [2020](http://www2.econ.tohoku.ac.jp/~terui/workshop/marketing-datascience-pro.htm)
+- International Workshop on Marketing and Data Science: [2021](http://www2.econ.tohoku.ac.jp/~DSSR/dsw.html)
+- International ACM SIGIR Conference (SIGIR): [2021](https://sigir.org/sigir2021)
