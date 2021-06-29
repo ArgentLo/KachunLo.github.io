@@ -18,15 +18,15 @@ _[Springer]Knowledge and Information Systems ([KAIS](https://www.springer.com/jo
 ## International Conference Proceedings (refereed)
 
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
-**Quad-Channel Collaborative Graph over Knowledge-aware Edges** <br>
+**X-2ch: Quad-Channel Collaborative Graph Network over Knowledge-aware Edges** <br>
 _International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2021](https://sigir.org/sigir2021/))_. <br>
-[[paper](https://argentlo.github.io/files/2.SIGIR21-X_2ch-Lo-Ishigaki.pdf)] [[code](https://github.com/ArgentLo/KG-CF-Rec)] <br>
+[[paper](https://argentlo.github.io/files/2.SIGIR21-X_2ch-Lo-Ishigaki)] [[code](https://github.com/ArgentLo/KG-CF-Rec)] <br>
 
 
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
 **Intermediary Does Matter! Conditional Proximity Embedding for Recommender Systems** <br>
-_International Joint Conference on Neural Networks ([IJCNN2021](https://www.ijcnn.org/))_. <br>
-[[paper](https://argentlo.github.io/files/3.IJCNN21-HNB-Lo-Ishigaki.pdf)] [[code](https://github.com/ArgentLo/HNB_Graph_Rec)] <br>
+_International Joint Conference on Neural Networks ([KDD2021-DLG](https://deep-learning-graphs.bitbucket.io/dlg-kdd21/index.html))_. <br>
+[[paper](https://argentlo.github.io/files/3.KDD21-DLG-HNB-Lo-Ishigaki)] [[code](https://github.com/ArgentLo/HNB_Graph_Rec)] <br>
 
 
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>

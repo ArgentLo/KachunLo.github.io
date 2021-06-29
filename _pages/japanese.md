@@ -11,7 +11,7 @@ author_profile: true
 東北大学　経済学科 博士後期課程２年。情報検索と機械学習の融合技術を用いて推薦システムの開発に関する研究を行う。
 また、推薦システムの解釈性、多様性とノヴェルティーに関する技術と評価方法の研究も携わる。
 
-ICDM, SIGIR, IJCNN, KAISなどの機械学習・データマイニングのトップ国際会議とジャーナルにてに学術論文を発表。
+ICDM, SIGIR, KDD, KAISなどの機械学習・データマイニングのトップ国際会議とジャーナルにてに学術論文を発表。
 Kaggle等のデータサイエンスコンペも始まり、社会データの実装で理論と実践の溝を埋めるためのトライアルを進めている。
 
 ---
@@ -58,14 +58,14 @@ _[Springer]Knowledge and Information Systems ([KAIS](https://www.springer.com/jo
 
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
 **X-2ch: Quad-Channel Collaborative Graph Network over Knowledge-aware Edges** <br>
-_International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2021](https://sigir.org/sigir2021/); sub.)_. <br>
+_International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2021](https://sigir.org/sigir2021/))_. <br>
 [[paper](https://argentlo.github.io/files/2.SIGIR21-X_2ch-Lo-Ishigaki)] [[code](https://github.com/ArgentLo/KG-CF-Rec)] <br>
 
 
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
 **Intermediary Does Matter! Conditional Proximity Embedding for Recommender Systems** <br>
-_International Joint Conference on Neural Networks ([IJCNN2021](https://www.ijcnn.org/))_. <br>
-[[paper](https://argentlo.github.io/files/3.IJCNN21-HNB-Lo-Ishigaki)] [[code](https://github.com/ArgentLo/HNB_Graph_Rec)] <br>
+_International Joint Conference on Neural Networks ([KDD2021-DLG](https://deep-learning-graphs.bitbucket.io/dlg-kdd21/index.html))_. <br>
+[[paper](https://argentlo.github.io/files/3.KDD21-DLG-HNB-Lo-Ishigaki)] [[code](https://github.com/ArgentLo/HNB_Graph_Rec)] <br>
 
 
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
