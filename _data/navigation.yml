@@ -6,11 +6,11 @@ main:
   - title: "Others"
     url: /others/
 
-  - title: "CV (EN)"
-    url: https://argentlo.github.io/files/CV-ENG_no-photo.pdf
+  # - title: "CV (EN)"
+  #   url: https://argentlo.github.io/files/CV-ENG_no-photo.pdf
 
-  - title: "CV (日本語)"
-    url: https://argentlo.github.io/files/CV-JPN_no-photo.pdf
+  # - title: "CV (日本語)"
+  #   url: https://argentlo.github.io/files/CV-JPN_no-photo.pdf
 
   - title: "日本語"
     url: /japanese/

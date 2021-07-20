@@ -33,7 +33,6 @@ author_profile: true
     - [2015] Nankai College Champions Cup.
     - TOGETHER WE WIN!
     
-    
 
 ## Languages
 

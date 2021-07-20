@@ -14,9 +14,9 @@ author_profile: true
 ICDM, SIGIR, KDD, KAISなどの機械学習・データマイニングのトップ国際会議とジャーナルにてに学術論文を発表。
 Kaggle等のデータサイエンスコンペも始まり、社会データの実装で理論と実践の溝を埋めるためのトライアルを進めている。
 
----
+<!-- ---
 
-**日本語の履歴書**は[こちら](https://argentlo.github.io/files/CV-JPN_no-photo.pdf)
+**日本語の履歴書**は[こちら](https://argentlo.github.io/files/CV-JPN_no-photo.pdf) -->
 
 ---
 
@@ -51,7 +51,7 @@ Kaggle等のデータサイエンスコンペも始まり、社会データの�
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
 **PPNW: Personalized Pairwise Novelty Loss Weighting for Novel Recommendation** <br>
 _[Springer]Knowledge and Information Systems ([KAIS](https://www.springer.com/journal/10115/))_. (Acceptance rate=18.7%) <br>
-[[paper](https://link.springer.com/article/10.1007/s10115-021-01546-8)] [[code](https://github.com/ArgentLo/PPNW-KAIS)] <br>
+[[paper](https://link.springer.com/article/10.1007/s10115-021-01546-8)] <br>
 
 
 ### 国際学会 (査読あり)
@@ -59,33 +59,33 @@ _[Springer]Knowledge and Information Systems ([KAIS](https://www.springer.com/jo
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
 **X-2ch: Quad-Channel Collaborative Graph Network over Knowledge-aware Edges** <br>
 _International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR2021](https://sigir.org/sigir2021/))_. <br>
-[[paper](https://argentlo.github.io/files/2.SIGIR21-X_2ch-Lo-Ishigaki)] [[code](https://github.com/ArgentLo/KG-CF-Rec)] <br>
+[[paper](https://dl.acm.org/doi/10.1145/3404835.3463003)] <br>
 
 
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
 **Intermediary Does Matter! Conditional Proximity Embedding for Recommender Systems** <br>
 _International Joint Conference on Neural Networks ([KDD2021 (DLG)](https://deep-learning-graphs.bitbucket.io/dlg-kdd21/index.html))_. <br>
-[[paper](https://argentlo.github.io/files/3.KDD21-DLG-HNB-Lo-Ishigaki)] [[code](https://github.com/ArgentLo/HNB_Graph_Rec)] <br>
+[[paper](https://argentlo.github.io/files/3.KDD21-DLG-HNB-Lo-Ishigaki)] <br>
 
 
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
 **Matching Novelty while Training: Novel Recommendation based on Personalized Pairwise Loss** <br>
 _IEEE International Conference on Data Mining ([ICDM2019](http://icdm2019.bigke.org/))_. (Acceptance rate=9.1%) <br>
-[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970764)] [[slides](http://www2.econ.tohoku.ac.jp/~terui/workshop/ref/Lo.pdf)] <br>
+[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8970764)] <br>
+
 
 
 ### プレプリント
 
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
 **GeoCF: Geolocation-enhanced Collaborative Filtering for Cold Start Recommendations** <br>
-_arXiv preprint arXiv:2102, 2021._ <br>
+_arXiv preprint_ <br>
 
 ---
 
-## 招待講演
-
-### 学術
-- International Conference on Data Mining (ICDM): [2019](https://icdm2019.bigke.org)
-- International Workshop on Marketing and Data Science: [2020](http://www2.econ.tohoku.ac.jp/~terui/workshop/marketing-datascience-pro.htm)
-- International Workshop on Marketing and Data Science: [2021](http://www2.econ.tohoku.ac.jp/~DSSR/dsw.html)
-- International ACM SIGIR Conference (SIGIR): [2021](https://sigir.org/sigir2021)
+### 学術講演
+- International Conference on Data Mining ICDM 2019
+- International Workshop on Marketing and Data Science 2020
+- International Workshop on Marketing and Data Science 2021
+- International ACM SIGIR Conference SIGIR 2021
+- Knowledge Discovery and Data Mining (SIGKDD) Conference 2021
