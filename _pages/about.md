@@ -28,7 +28,7 @@ My research lies at the intersection of information retrieval and machine learni
 ---
 
 # Educations
-**Tohoku University, Japan [2019 - 03.2022 (exp.)]**
+**Tohoku University, Japan [2019 - 03.2022]**
 
 - Ph.D. in Data Science
 - Japanese Government Full Scholarship (<u>MEXT</u>)
@@ -42,7 +42,7 @@ My research lies at the intersection of information retrieval and machine learni
 
 **University of Sydney, Australia [2016 - 2017]**
 
-- Statistical Finance
+- M.S. in Statistical Finance
 - Research Interests: International Financial Architecture
 
 **Nankai University, China [2012 - 2016]**
