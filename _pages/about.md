@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 # About Me
-I am a Financial Analyst in an investment company.
+I am a Financial Analyst at an investment company.
+
 I was fortunate to be advised by [Prof. Tsugasa Ishigaki](http://www2.econ.tohoku.ac.jp/~isgk/research.html).
+
 My research lies at the intersection of information retrieval and machine learning , mainly **Big Data Mining**. I am also interested in explainable artificial intelligence, especially novelty and explainability of recommendations based on deep learning frameworks.
 
 ---
