@@ -42,14 +42,13 @@ author_profile: true
 
 | Languages |    Level    |
 | :-------: | :---------: |
-|  English  | TOEFL (105) |
-| Japanese  |  JLPT (N1)  |
-|  German   |  Beginner   |
-|  Chinese  |   Native    |
-| Cantonese |   Native    |
-|  Teochew  |   Native    |
-
-
+| Japanese  |  Advanced   |
+|  English  |  Native or bilingual proficiency  |
+|  Chinese  |  Native or bilingual proficiency  |
+| Cantonese |  Native or bilingual proficiency  |
+|  Teochew  |  Native or bilingual proficiency  |
+|  French   |  Intermediate  |
+|  German   |  Starter  |
 
 ## Interests
 
@@ -57,5 +56,3 @@ author_profile: true
 
 - Football
 - Language Learning
-- Music
-- Traveling
