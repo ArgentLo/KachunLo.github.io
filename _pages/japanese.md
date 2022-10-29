@@ -35,13 +35,10 @@ Kaggle等のデータサイエンスコンペも始まり、社会データの�
 ---
 
 ## 研究領域
-- 情報検索
-  - 推薦システム
-  - Knowledge Graph（知識ネットワークグラフ）
-  - 推薦システムの解釈性、多様性とノヴェルティー
-- 統計的機械学習
-- ディープランニング
-  - 計算言語処理 (言い換えモデル)
+- Big Data Mining
+- Graph Learning
+- Deep Learning
+  - 自然言語処理 (文章言い換え)
   - 画像解析 (物体認識、領域分割)
 
 ---
@@ -86,8 +83,8 @@ _arXiv preprint_ <br>
 ---
 
 ### 学術講演
-- International Conference on Data Mining (**ICDM 2019**)
-- International ACM SIGIR Conference (**SIGIR 2021**)
-- Knowledge Discovery and Data Mining Conference (**SIGKDD 2021**)
+- International Conference on Data Mining ([**ICDM 2019**](http://icdm2019.zhonghuapu.com/))
+- International ACM SIGIR Conference ([**SIGIR 2021**](https://sigir.org/sigir2021/))
+- Knowledge Discovery and Data Mining Conference ([**SIGKDD 2021**](https://kdd.org/kdd2021/))
 - International Workshop on Marketing and Data Science 2020
 - International Workshop on Marketing and Data Science 2021
