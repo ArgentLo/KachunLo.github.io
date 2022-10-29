@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 # About Me
-I am a second-year Ph.D. candidate at Tohoku University. I am fortunate to be advised by [Prof. Tsugasa Ishigaki](http://www2.econ.tohoku.ac.jp/~isgk/research.html).
-
-My research lies at the intersection of information retrieval and machine learning , mainly **personalized recommender systems**. I am also interested in explainable artificial intelligence, especially Diversity, Novelty and Explainability of recommendations based on deep learning frameworks.
+I am a Financial Analyst in an investment company.
+I was fortunate to be advised by [Prof. Tsugasa Ishigaki](http://www2.econ.tohoku.ac.jp/~isgk/research.html).
+My research lies at the intersection of information retrieval and machine learning , mainly **Big Data Mining**. I am also interested in explainable artificial intelligence, especially novelty and explainability of recommendations based on deep learning frameworks.
 
 ---
 
