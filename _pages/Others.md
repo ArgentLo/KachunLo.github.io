@@ -43,10 +43,10 @@ author_profile: true
 | Languages |    Level    |
 | :-------: | :---------: |
 | Japanese  |  Advanced   |
-|  English  |  Native or bilingual proficiency  |
-|  Chinese  |  Native or bilingual proficiency  |
-| Cantonese |  Native or bilingual proficiency  |
-|  Teochew  |  Native or bilingual proficiency  |
+|  English  |  Native or Bilingual  |
+|  Chinese  |  Native or Bilingual  |
+| Cantonese |  Native or Bilingual  |
+|  Teochew  |  Native or Bilingual  |
 |  French   |  Intermediate  |
 |  German   |  Starter  |
 
