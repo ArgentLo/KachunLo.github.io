@@ -23,6 +23,8 @@ I am also interested in explainable artificial intelligence, especially novelty 
 - Deep Learning
     - NLP (Sentence Paraphrasing)
     - Computer Vision (Detection and Segmentation)
+
+
 ---
 
 # Educations
