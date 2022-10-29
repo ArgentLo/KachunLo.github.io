@@ -18,15 +18,11 @@ I am also interested in explainable artificial intelligence, especially novelty 
 ---
 
 # Research Interests
-- Information Retrieval
-    - Recommender Systems
-    - Knowledge Graph
-    - Diversity, Novelty and Explainability of Recommendations
-- Statistical Learning Theory
+- Data Mining
+- Graph Learning
 - Deep Learning
-    - Computational Linguistics (Paraphrasing)
+    - NLP (Sentence Paraphrasing)
     - Computer Vision (Detection and Segmentation)
-
 ---
 
 # Educations
@@ -52,3 +48,12 @@ I am also interested in explainable artificial intelligence, especially novelty 
 - B.S. in Finance and Economics
 - Research Interests: Statistical Learning
 
+
+---
+
+# Academic Talks
+- International Conference on Data Mining (**ICDM 2019**)
+- International ACM SIGIR Conference (**SIGIR 2021**)
+- Knowledge Discovery and Data Mining Conference (**SIGKDD 2021**)
+- International Workshop on Marketing and Data Science 2020
+- International Workshop on Marketing and Data Science 2021
