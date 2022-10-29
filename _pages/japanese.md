@@ -86,8 +86,8 @@ _arXiv preprint_ <br>
 ---
 
 ### 学術講演
-- International Conference on Data Mining ICDM 2019
-- International ACM SIGIR Conference SIGIR 2021
-- Knowledge Discovery and Data Mining (SIGKDD) Conference 2021
+- International Conference on Data Mining (**ICDM 2019**)
+- International ACM SIGIR Conference (**SIGIR 2021**)
+- Knowledge Discovery and Data Mining Conference (**SIGKDD 2021**)
 - International Workshop on Marketing and Data Science 2020
 - International Workshop on Marketing and Data Science 2021
