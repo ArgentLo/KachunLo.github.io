@@ -11,7 +11,7 @@ redirect_from:
 # About Me
 I am a **Financial Analyst** at an investment company.
 
-My research lies at the intersection of information retrieval and machine learning , mainly **Big Data Mining**. 
+My research is mainly about **Big Data Mining**, which lies at the intersection of information retrieval and machine learning. 
 
 I am also interested in explainable artificial intelligence, especially novelty and explainability of recommendations based on deep learning frameworks. I was fortunate to be advised by [Prof. Tsugasa Ishigaki](http://www2.econ.tohoku.ac.jp/~isgk/research.html).
 
