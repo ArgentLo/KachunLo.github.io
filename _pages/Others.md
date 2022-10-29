@@ -28,10 +28,9 @@ author_profile: true
   
     - [2017] Financial Statistics, University of Sydney.
     - Assisting with assignment instructions.
-- **Football Champion Member**
+- **University Football Champion**
   
     - [2015] Nankai College Champions Cup.
-    - TOGETHER WE WIN!
     
 
 ## Languages
