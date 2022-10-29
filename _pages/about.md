@@ -28,24 +28,24 @@ My research lies at the intersection of information retrieval and machine learni
 ---
 
 # Educations
-**Tohoku University, Japan [2019 - 03.2022]**
+**Tohoku University, Japan [2019.10 - 2022.03]**
 
 - Ph.D. in Economics
 - Japanese Government Full Scholarship (<u>MEXT</u>)
 - Research Interests: Recommender Systems and Deep Learning
 
-**Tohoku University, Japan [2017 - 2019]**
+**Tohoku University, Japan [2017.10 - 2019.09]**
 
 - M.S. in Economics
 - Japanese Government Full Scholarship (<u>MEXT</u>)
 - Research Interests: Recommender Systems and Deep Learning
 
-**University of Sydney, Australia [2016 - 2017]**
+**University of Sydney, Australia [2016.10 - 2017.09]**
 
 - M.S. in Statistical Finance
-- Research Interests: International Financial Architecture
+- Research Interests: Statistical Learning
 
-**Nankai University, China [2013 - 2016]**
+**Nankai University, China [2013.10 - 2016.09]**
 
 - B.S. in Finance and Economics
 - Research Interests: Statistical Learning
