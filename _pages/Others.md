@@ -54,4 +54,4 @@ author_profile: true
 ---
 
 - Football
-- Language Learning
+- Languages Learning and Reading
