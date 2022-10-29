@@ -52,8 +52,8 @@ I am also interested in explainable artificial intelligence, especially novelty 
 ---
 
 # Academic Talks
-- International Conference on Data Mining (**ICDM 2019**)
-- International ACM SIGIR Conference (**SIGIR 2021**)
-- Knowledge Discovery and Data Mining Conference (**SIGKDD 2021**)
+- International Conference on Data Mining ([**ICDM 2019**](http://icdm2019.zhonghuapu.com/))
+- International ACM SIGIR Conference ([**SIGIR 2021**](https://sigir.org/sigir2021/))
+- Knowledge Discovery and Data Mining Conference ([**SIGKDD 2021**](https://kdd.org/kdd2021/))
 - International Workshop on Marketing and Data Science 2020
 - International Workshop on Marketing and Data Science 2021
