@@ -7,10 +7,10 @@ main:
     url: /others/
 
   # - title: "CV (EN)"
-  #   url: https://kachunlo.github.io/files/CV-ENG_no-photo.pdf
+  #   url: https://argentlo.github.io/files/CV-ENG_no-photo.pdf
 
   # - title: "CV (日本語)"
-  #   url: https://kachunlo.github.io/files/CV-JPN_no-photo.pdf
+  #   url: https://argentlo.github.io/files/CV-JPN_no-photo.pdf
 
   - title: "日本語"
     url: /japanese/
