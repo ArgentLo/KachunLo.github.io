@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Kachun Lo"
+title                    : "Kachun Lo (Argent)"
 title_separator          : "-"
 name                     : &name "Kachun Lo"
 description              : &description "Financial Analyst"
@@ -73,7 +73,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kachun Lo"
+  name             : "Kachun Lo (Argent)"
   avatar           : "profile_pic-3.jpg"
   bio              : "Ph.D. Candidate at Tohoku Univ."
   location         : "Japan"
