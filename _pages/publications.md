@@ -25,8 +25,8 @@ _International ACM SIGIR Conference on Research and Development in Information R
 
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
 **Intermediary Does Matter! Conditional Proximity Embedding for Recommender Systems** <br>
-_Deep Learning on Graphs: Method and Applications ([KDD2021 (DLG)](https://deep-learning-graphs.bitbucket.io/dlg-kdd21/index.html))_. ([Best Student Awards](https://argentlo.github.io/files/KDD-DLG'21-Best Student Paper.pdf)) <br>
-[[paper](https://argentlo.github.io/files/3.KDD21-DLG-HNB-Lo-Ishigaki.pdf)] <br>
+_Deep Learning on Graphs: Method and Applications ([KDD2021 (DLG)](https://deep-learning-graphs.bitbucket.io/dlg-kdd21/index.html))_. ([Best Student Awards](https://kachunlo.github.io/files/KDD-DLG'21-Best Student Paper.pdf)) <br>
+[[paper](https://kachunlo.github.io/files/3.KDD21-DLG-HNB-Lo-Ishigaki.pdf)] <br>
 
 
 1. <u>Kachun Lo</u> and Tsukasa Ishigaki. <br>
