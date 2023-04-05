@@ -4,9 +4,9 @@ title                    : "Kachun Lo (Argent)"
 title_separator          : "-"
 name                     : &name "Kachun Lo"
 description              : &description "Financial Analyst"
-url                      : https://argentlo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kachunlo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "argentlo.github.io"
+repository               : "kachunlo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
